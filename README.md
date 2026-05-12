@@ -5,6 +5,7 @@ Repo di demo per sperimentare agenti AI in Python.
 Contiene esempi su:
 
 - agenti con `smolagents`
+- sistemi multi-agent con manager e agenti specializzati
 - tool calling e Model Context Protocol con un server MCP locale
 - memoria persistente con `mem0`, Qdrant in-memory e Hugging Face
 
